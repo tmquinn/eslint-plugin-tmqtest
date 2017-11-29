@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "eslint-plugin-ember": "^5.0.1"
-  }
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ]
 }
