@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tmqtest",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Test",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "eslint-plugin-ember": "^5.0.1"
   },
-  "keywords": [
-    "eslint",
-    "eslintplugin",
-    "eslint-plugin"
-  ]
+  "keywords": ["eslint", "eslintplugin", "eslint-plugin"]
 }
